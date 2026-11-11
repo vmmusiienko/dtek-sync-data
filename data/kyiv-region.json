@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-11T09:10:49.623Z",
+  "lastUpdated": "2026-11-11T10:14:50.901Z",
   "fact": {
     "data": {
       "1794348000": {
@@ -96,7 +96,7 @@
           "11": "first",
           "12": "yes",
           "13": "yes",
-          "14": "second",
+          "14": "yes",
           "15": "no",
           "16": "no",
           "17": "no",
@@ -173,8 +173,8 @@
           "10": "no",
           "11": "no",
           "12": "first",
-          "13": "no",
-          "14": "no",
+          "13": "yes",
+          "14": "yes",
           "15": "yes",
           "16": "yes",
           "17": "yes",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "11.11.2026 09:46",
+    "update": "11.11.2026 11:39",
     "today": 1794348000
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "11.11.2026 09:46"
+    "updateFact": "11.11.2026 11:39"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-11T09:10:49.622Z",
-    "attempt": 10
+    "at": "2026-11-11T10:14:50.901Z",
+    "attempt": 11
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "cd7123061216934a5db84c5e9657cc7737271be62bf7ff00a2c9033fc463657f"
+    "contentHash": "226f899b2ad583d7a2499d0a4614e1ca8bdfb465ff569bd73455a28778afc5d8"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-11T09:10:49.701Z",
+    "checkedAt": "2026-11-11T10:14:50.961Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-11T09:10:49.623Z",
-    "sourceUpdate": "11.11.2026 09:46"
+    "lastSuccessfulFetchAt": "2026-11-11T10:14:50.901Z",
+    "sourceUpdate": "11.11.2026 11:39"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 11.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-11T09:10:49.469Z",
+    "checkedAt": "2026-11-11T10:14:50.776Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
