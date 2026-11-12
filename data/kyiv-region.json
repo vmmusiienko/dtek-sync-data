@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-12T13:29:38.737Z",
+  "lastUpdated": "2026-11-12T15:10:09.786Z",
   "fact": {
     "data": {
       "1794434400": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-12T13:29:38.737Z",
-    "attempt": 32
+    "at": "2026-11-12T15:10:09.784Z",
+    "attempt": 33
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,15 +2713,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-12T13:29:38.808Z",
+    "checkedAt": "2026-11-12T15:10:09.913Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-12T13:29:38.737Z",
+    "lastSuccessfulFetchAt": "2026-11-12T15:10:09.786Z",
     "sourceUpdate": "12.11.2026 15:00"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 12.11 діють стабілізаційні відключення електроенергії. Через аварію в мережі знеструмлений частково Броварський район. Тут графіки не діють.",
-    "checkedAt": "2026-11-12T13:29:38.626Z",
+    "checkedAt": "2026-11-12T15:10:09.559Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "reported",
