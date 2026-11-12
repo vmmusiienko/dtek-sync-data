@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-12T05:15:42.396Z",
+  "lastUpdated": "2026-11-12T06:20:53.009Z",
   "fact": {
     "data": {
       "1794434400": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-12T05:15:42.395Z",
-    "attempt": 27
+    "at": "2026-11-12T06:20:53.008Z",
+    "attempt": 28
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,18 +2713,18 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-12T05:15:42.477Z",
+    "checkedAt": "2026-11-12T06:20:53.062Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-12T05:15:42.396Z",
+    "lastSuccessfulFetchAt": "2026-11-12T06:20:53.009Z",
     "sourceUpdate": "11.11.2026 20:22"
   },
   "regionalNotice": {
     "status": "available",
-    "text": "Шановні клієнти! За наказом НЕК Укренерго 12.11 діють стабілізаційні відключення електроенергії. В частині Білоцерківського району зникло світло через локальну аварію в мережі. Фахівці вже працюють над відновленням електропостачання.",
-    "checkedAt": "2026-11-12T05:15:42.257Z",
+    "text": "Шановні клієнти! За наказом НЕК Укренерго 12.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
+    "checkedAt": "2026-11-12T06:20:52.911Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
-      "status": "unknown",
+      "status": "not_reported",
       "scope": "unspecified",
       "evidence": []
     }
