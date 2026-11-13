@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv",
-  "lastUpdated": "2026-11-13T20:06:59.404Z",
+  "lastUpdated": "2026-11-13T21:05:03.101Z",
   "fact": {
     "data": {
       "1794520800": {
@@ -15556,8 +15556,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-13T20:06:59.404Z",
-    "attempt": 58
+    "at": "2026-11-13T21:05:03.101Z",
+    "attempt": 59
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -15567,15 +15567,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-13T20:06:59.432Z",
+    "checkedAt": "2026-11-13T21:05:03.135Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-13T20:06:59.404Z",
+    "lastSuccessfulFetchAt": "2026-11-13T21:05:03.101Z",
     "sourceUpdate": "13.11.2026 21:47"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 13.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-13T20:06:50.127Z",
+    "checkedAt": "2026-11-13T21:04:58.578Z",
     "sourceUrl": "https://www.dtek-kem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
