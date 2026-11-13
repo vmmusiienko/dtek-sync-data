@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-13T01:25:44.206Z",
+  "lastUpdated": "2026-11-13T03:00:25.265Z",
   "fact": {
     "data": {
       "1794520800": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-13T01:25:44.205Z",
-    "attempt": 42
+    "at": "2026-11-13T03:00:25.265Z",
+    "attempt": 43
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,15 +2713,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-13T01:25:44.270Z",
+    "checkedAt": "2026-11-13T03:00:25.346Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-13T01:25:44.206Z",
+    "lastSuccessfulFetchAt": "2026-11-13T03:00:25.265Z",
     "sourceUpdate": "12.11.2026 20:47"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! Через атаку на енергообʼєкти на Київщині зафіксовані відключення у Фастівському, Білоцерківському та Обухівському районах, тут графіки не діють. В решті області продовжують діяти стабілізаційні графіки.",
-    "checkedAt": "2026-11-13T01:25:44.092Z",
+    "checkedAt": "2026-11-13T03:00:25.129Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
