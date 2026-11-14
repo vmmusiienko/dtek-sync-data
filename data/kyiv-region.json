@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-13T23:52:00.331Z",
+  "lastUpdated": "2026-11-14T03:01:06.042Z",
   "fact": {
     "data": {
       "1794607200": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-13T23:52:00.331Z",
-    "attempt": 62
+    "at": "2026-11-14T03:01:06.042Z",
+    "attempt": 63
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,15 +2713,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-13T23:52:00.415Z",
+    "checkedAt": "2026-11-14T03:01:06.124Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-13T23:52:00.331Z",
+    "lastSuccessfulFetchAt": "2026-11-14T03:01:06.042Z",
     "sourceUpdate": "13.11.2026 21:46"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! Через ворожі обстріли та обмеження передачі електроенергії через пошкодження енергосистеми у Бучанському, Фастівському, Білоцерківському, Обухівському районах діють екстрені відключення. В решті області продовжують діяти стабілізаційні графіки.",
-    "checkedAt": "2026-11-13T23:52:00.201Z",
+    "checkedAt": "2026-11-14T03:01:05.918Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "reported",
