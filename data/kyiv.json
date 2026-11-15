@@ -13990,12 +13990,12 @@
     "updateFact": "14.11.2026 20:17"
   },
   "lastUpdateStatus": {
-    "status": "parsed",
-    "ok": true,
-    "code": 200,
-    "message": null,
-    "at": "2026-11-15T05:08:30.906Z",
-    "attempt": 87
+    "status": "unavailable",
+    "ok": false,
+    "code": 422,
+    "message": "collection_failed",
+    "at": "2026-11-15T06:04:58.749Z",
+    "attempt": 88
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -14003,22 +14003,22 @@
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
-    "status": "available",
-    "reason": null,
-    "checkedAt": "2026-11-15T05:08:30.939Z",
-    "usingPrevious": false,
+    "status": "unavailable",
+    "reason": "collection_failed",
+    "checkedAt": "2026-11-15T06:04:58.749Z",
+    "usingPrevious": true,
     "lastSuccessfulFetchAt": "2026-11-15T05:08:30.906Z",
     "sourceUpdate": "14.11.2026 20:17"
   },
   "regionalNotice": {
-    "status": "available",
-    "text": "Шановні клієнти! За наказом НЕК Укренерго 15.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-15T05:08:25.976Z",
+    "status": "unknown",
+    "text": null,
+    "checkedAt": "2026-11-15T06:04:58.749Z",
     "sourceUrl": "https://www.dtek-kem.com.ua/ua/shutdowns",
     "emergency": {
-      "status": "not_reported",
+      "status": "unknown",
       "scope": "unspecified",
-      "evidence": []
+      "evidence": null
     }
   },
   "addressOutages": []
