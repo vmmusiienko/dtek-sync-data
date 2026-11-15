@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-15T09:01:23.278Z",
+  "lastUpdated": "2026-11-15T09:59:36.694Z",
   "fact": {
     "data": {
       "1794693600": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T09:01:23.278Z",
-    "attempt": 90
+    "at": "2026-11-15T09:59:36.694Z",
+    "attempt": 91
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,15 +2713,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-15T09:01:23.346Z",
+    "checkedAt": "2026-11-15T09:59:36.773Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-15T09:01:23.278Z",
+    "lastSuccessfulFetchAt": "2026-11-15T09:59:36.694Z",
     "sourceUpdate": "15.11.2026 08:17"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 15.11 з 9:00 до 23:59 діють стабілізаційні відключення електроенергії. Через аварію в мережі знеструмлено частково Бучанський район. Тут графіки не діють.",
-    "checkedAt": "2026-11-15T09:01:23.157Z",
+    "checkedAt": "2026-11-15T09:59:36.558Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "reported",
