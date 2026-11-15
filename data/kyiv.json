@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv",
-  "lastUpdated": "2026-11-15T13:10:31.071Z",
+  "lastUpdated": "2026-11-15T14:56:16.649Z",
   "fact": {
     "data": {
       "1794693600": {
@@ -13994,8 +13994,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T13:10:31.071Z",
-    "attempt": 94
+    "at": "2026-11-15T14:56:16.649Z",
+    "attempt": 95
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -14005,15 +14005,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-15T13:10:31.099Z",
+    "checkedAt": "2026-11-15T14:56:16.684Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-15T13:10:31.071Z",
+    "lastSuccessfulFetchAt": "2026-11-15T14:56:16.649Z",
     "sourceUpdate": "14.11.2026 20:17"
   },
   "regionalNotice": {
     "status": "unknown",
     "text": null,
-    "checkedAt": "2026-11-15T13:10:27.372Z",
+    "checkedAt": "2026-11-15T14:56:12.778Z",
     "sourceUrl": "https://www.dtek-kem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "unknown",
