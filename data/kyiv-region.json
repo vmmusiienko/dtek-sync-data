@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-16T20:10:17.807Z",
+  "lastUpdated": "2026-11-16T21:03:00.280Z",
   "fact": {
     "data": {
       "1794780000": {
@@ -27,8 +27,8 @@
           "20": "no",
           "21": "no",
           "22": "no",
-          "23": "no",
-          "24": "no"
+          "23": "first",
+          "24": "yes"
         },
         "GPV1.2": {
           "1": "yes",
@@ -53,8 +53,8 @@
           "20": "no",
           "21": "no",
           "22": "no",
-          "23": "no",
-          "24": "no"
+          "23": "first",
+          "24": "yes"
         },
         "GPV2.1": {
           "1": "no",
@@ -79,7 +79,7 @@
           "20": "yes",
           "21": "no",
           "22": "no",
-          "23": "no",
+          "23": "first",
           "24": "yes"
         },
         "GPV2.2": {
@@ -105,7 +105,7 @@
           "20": "yes",
           "21": "no",
           "22": "no",
-          "23": "no",
+          "23": "first",
           "24": "yes"
         },
         "GPV3.1": {
@@ -184,7 +184,7 @@
           "21": "yes",
           "22": "yes",
           "23": "yes",
-          "24": "second"
+          "24": "yes"
         },
         "GPV4.2": {
           "1": "yes",
@@ -210,7 +210,7 @@
           "21": "yes",
           "22": "yes",
           "23": "yes",
-          "24": "second"
+          "24": "yes"
         },
         "GPV5.1": {
           "1": "yes",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "15.11.2026 20:28",
+    "update": "16.11.2026 22:45",
     "today": 1794780000
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "15.11.2026 20:28"
+    "updateFact": "16.11.2026 22:45"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T20:10:17.807Z",
-    "attempt": 114
+    "at": "2026-11-16T21:03:00.279Z",
+    "attempt": 115
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "55fa7732072d965d4507ee1d5ba3c3a68a7830cec7e9de09b7dc87532291fad0"
+    "contentHash": "622e96361f2168d59e3e551e063fc9c4ec44ff93aa804d7fc69b8aa87c4fd867"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-16T20:10:17.863Z",
+    "checkedAt": "2026-11-16T21:03:00.360Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-16T20:10:17.807Z",
-    "sourceUpdate": "15.11.2026 20:28"
+    "lastSuccessfulFetchAt": "2026-11-16T21:03:00.280Z",
+    "sourceUpdate": "16.11.2026 22:45"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 16.11 з 00:00 до 23:59 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-16T20:10:17.704Z",
+    "checkedAt": "2026-11-16T21:03:00.160Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
