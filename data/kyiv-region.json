@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-19T13:39:50.544Z",
+  "lastUpdated": "2026-11-19T15:13:46.896Z",
   "fact": {
     "data": {
       "1795039200": {
@@ -283,7 +283,7 @@
           "16": "yes",
           "17": "yes",
           "18": "yes",
-          "19": "no",
+          "19": "yes",
           "20": "no",
           "21": "no",
           "22": "no",
@@ -309,7 +309,7 @@
           "16": "yes",
           "17": "yes",
           "18": "yes",
-          "19": "no",
+          "19": "yes",
           "20": "no",
           "21": "no",
           "22": "no",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "19.11.2026 14:50",
+    "update": "19.11.2026 16:53",
     "today": 1795039200
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "19.11.2026 14:50"
+    "updateFact": "19.11.2026 16:53"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-19T13:39:50.544Z",
-    "attempt": 163
+    "at": "2026-11-19T15:13:46.895Z",
+    "attempt": 164
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "b5dc87d2a917d4414a071488c911577d541a49f4e5ad870c7ebc4a17ea6ec08e"
+    "contentHash": "8bdc361e3b9ec3f75b0c9a6bcf49ed02e3730b04e59d4e2c394866aa44f1a505"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-19T13:39:50.616Z",
+    "checkedAt": "2026-11-19T15:13:46.987Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-19T13:39:50.544Z",
-    "sourceUpdate": "19.11.2026 14:50"
+    "lastSuccessfulFetchAt": "2026-11-19T15:13:46.896Z",
+    "sourceUpdate": "19.11.2026 16:53"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 19.11 з 6:00 до 23:59 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-19T13:39:50.430Z",
+    "checkedAt": "2026-11-19T15:13:46.743Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
