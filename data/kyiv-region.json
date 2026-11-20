@@ -2702,8 +2702,8 @@
     "ok": false,
     "code": 200,
     "message": "empty_schedule",
-    "at": "2026-11-20T01:25:42.569Z",
-    "attempt": 172
+    "at": "2026-11-20T03:00:09.853Z",
+    "attempt": 173
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,7 +2713,7 @@
   "scheduleAvailability": {
     "status": "unavailable",
     "reason": "empty_schedule",
-    "checkedAt": "2026-11-20T01:25:42.569Z",
+    "checkedAt": "2026-11-20T03:00:09.853Z",
     "usingPrevious": true,
     "lastSuccessfulFetchAt": "2026-11-19T20:19:58.473Z",
     "sourceUpdate": "19.11.2026 19:32"
@@ -2721,7 +2721,7 @@
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 20.11 з 6:00 до 23:59 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-20T01:25:42.395Z",
+    "checkedAt": "2026-11-20T03:00:09.647Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
