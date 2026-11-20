@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv",
-  "lastUpdated": "2026-11-20T09:18:32.454Z",
+  "lastUpdated": "2026-11-20T11:16:15.407Z",
   "fact": {
     "data": {
       "1795125600": {
@@ -13994,8 +13994,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T09:18:32.454Z",
-    "attempt": 177
+    "at": "2026-11-20T11:16:15.407Z",
+    "attempt": 178
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -14005,15 +14005,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-20T09:18:32.481Z",
+    "checkedAt": "2026-11-20T11:16:15.440Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-20T09:18:32.454Z",
+    "lastSuccessfulFetchAt": "2026-11-20T11:16:15.407Z",
     "sourceUpdate": "19.11.2026 20:35"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! Через масовану атаку без світла залишилася частина мешканців Печерського, Солом’янського, Голосіївського, Дніпровського та Дарницького районів. В інших районах столиці діють екстрені відключення через пошкодження обладнання та перевантаження мереж.",
-    "checkedAt": "2026-11-20T09:18:28.412Z",
+    "checkedAt": "2026-11-20T11:16:11.527Z",
     "sourceUrl": "https://www.dtek-kem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "reported",
