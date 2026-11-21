@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-21T04:06:54.028Z",
+  "lastUpdated": "2026-11-21T05:10:13.811Z",
   "fact": {
     "data": {
       "1795212000": {
@@ -12,8 +12,8 @@
           "5": "yes",
           "6": "yes",
           "7": "yes",
-          "8": "no",
-          "9": "no",
+          "8": "yes",
+          "9": "yes",
           "10": "yes",
           "11": "yes",
           "12": "yes",
@@ -38,7 +38,7 @@
           "5": "yes",
           "6": "yes",
           "7": "yes",
-          "8": "no",
+          "8": "yes",
           "9": "yes",
           "10": "yes",
           "11": "yes",
@@ -64,11 +64,11 @@
           "5": "yes",
           "6": "yes",
           "7": "yes",
-          "8": "no",
-          "9": "no",
-          "10": "no",
-          "11": "no",
-          "12": "first",
+          "8": "yes",
+          "9": "yes",
+          "10": "yes",
+          "11": "yes",
+          "12": "yes",
           "13": "yes",
           "14": "yes",
           "15": "yes",
@@ -77,8 +77,8 @@
           "18": "no",
           "19": "no",
           "20": "no",
-          "21": "first",
-          "22": "yes",
+          "21": "no",
+          "22": "no",
           "23": "yes",
           "24": "yes"
         },
@@ -90,11 +90,11 @@
           "5": "yes",
           "6": "yes",
           "7": "yes",
-          "8": "no",
+          "8": "yes",
           "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
+          "10": "no",
+          "11": "no",
+          "12": "first",
           "13": "yes",
           "14": "yes",
           "15": "second",
@@ -103,8 +103,8 @@
           "18": "no",
           "19": "no",
           "20": "no",
-          "21": "no",
-          "22": "no",
+          "21": "first",
+          "22": "yes",
           "23": "yes",
           "24": "yes"
         },
@@ -117,7 +117,7 @@
           "6": "yes",
           "7": "yes",
           "8": "yes",
-          "9": "no",
+          "9": "yes",
           "10": "no",
           "11": "no",
           "12": "no",
@@ -142,8 +142,8 @@
           "5": "yes",
           "6": "yes",
           "7": "yes",
-          "8": "no",
-          "9": "no",
+          "8": "yes",
+          "9": "yes",
           "10": "no",
           "11": "no",
           "12": "first",
@@ -169,7 +169,7 @@
           "6": "yes",
           "7": "yes",
           "8": "yes",
-          "9": "no",
+          "9": "yes",
           "10": "no",
           "11": "no",
           "12": "no",
@@ -195,7 +195,7 @@
           "6": "yes",
           "7": "yes",
           "8": "yes",
-          "9": "second",
+          "9": "yes",
           "10": "no",
           "11": "no",
           "12": "no",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "21.11.2026 02:07",
+    "update": "21.11.2026 06:44",
     "today": 1795212000
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "21.11.2026 02:07"
+    "updateFact": "21.11.2026 06:44"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T04:06:54.028Z",
-    "attempt": 191
+    "at": "2026-11-21T05:10:13.811Z",
+    "attempt": 192
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "b25c7c300d9bbcccaa97fec5272765b5387bb9bc519c0217bc706cb8611b6755"
+    "contentHash": "d16f41b3884ad6d6ec6e64e3fe32555cc919958ae988afe32649e6ede0f07252"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-21T04:06:54.111Z",
+    "checkedAt": "2026-11-21T05:10:13.895Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-21T04:06:54.028Z",
-    "sourceUpdate": "21.11.2026 02:07"
+    "lastSuccessfulFetchAt": "2026-11-21T05:10:13.811Z",
+    "sourceUpdate": "21.11.2026 06:44"
   },
   "regionalNotice": {
     "status": "unknown",
     "text": null,
-    "checkedAt": "2026-11-21T04:06:53.892Z",
+    "checkedAt": "2026-11-21T05:10:13.679Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "unknown",
