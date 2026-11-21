@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-21T19:04:00.556Z",
+  "lastUpdated": "2026-11-21T19:58:20.291Z",
   "fact": {
     "data": {
       "1795212000": {
@@ -287,8 +287,8 @@
           "20": "yes",
           "21": "yes",
           "22": "yes",
-          "23": "no",
-          "24": "no"
+          "23": "yes",
+          "24": "yes"
         },
         "GPV6.2": {
           "1": "yes",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "21.11.2026 18:52",
+    "update": "21.11.2026 21:47",
     "today": 1795212000
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "21.11.2026 18:52"
+    "updateFact": "21.11.2026 21:47"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T19:04:00.555Z",
-    "attempt": 205
+    "at": "2026-11-21T19:58:20.291Z",
+    "attempt": 206
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "5282424ff241ef053984aac15297515d884b7ed0f52d41fbdd2a12c22a03fa5a"
+    "contentHash": "2d33be76e87b59c905eb6761ca896636b00dc3f215759b2a838bf48adc917a78"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-21T19:04:00.628Z",
+    "checkedAt": "2026-11-21T19:58:20.363Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-21T19:04:00.556Z",
-    "sourceUpdate": "21.11.2026 18:52"
+    "lastSuccessfulFetchAt": "2026-11-21T19:58:20.291Z",
+    "sourceUpdate": "21.11.2026 21:47"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 21.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-21T19:04:00.436Z",
+    "checkedAt": "2026-11-21T19:58:20.171Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
