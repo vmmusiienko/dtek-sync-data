@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-21T15:59:21.976Z",
+  "lastUpdated": "2026-11-21T16:59:56.235Z",
   "fact": {
     "data": {
       "1795212000": {
@@ -180,10 +180,10 @@
           "17": "yes",
           "18": "yes",
           "19": "second",
-          "20": "no",
-          "21": "no",
-          "22": "no",
-          "23": "first",
+          "20": "yes",
+          "21": "yes",
+          "22": "yes",
+          "23": "yes",
           "24": "yes"
         },
         "GPV4.2": {
@@ -261,8 +261,8 @@
           "20": "yes",
           "21": "yes",
           "22": "yes",
-          "23": "no",
-          "24": "no"
+          "23": "yes",
+          "24": "yes"
         },
         "GPV6.1": {
           "1": "yes",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "21.11.2026 15:08",
+    "update": "21.11.2026 18:52",
     "today": 1795212000
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "21.11.2026 15:08"
+    "updateFact": "21.11.2026 18:52"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T15:59:21.975Z",
-    "attempt": 202
+    "at": "2026-11-21T16:59:56.235Z",
+    "attempt": 203
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "a7e7b8da6df5dd9e692975f294f129c8f8827fe616f9ec8431ab1913e017835e"
+    "contentHash": "5282424ff241ef053984aac15297515d884b7ed0f52d41fbdd2a12c22a03fa5a"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-21T15:59:22.046Z",
+    "checkedAt": "2026-11-21T16:59:56.290Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-21T15:59:21.976Z",
-    "sourceUpdate": "21.11.2026 15:08"
+    "lastSuccessfulFetchAt": "2026-11-21T16:59:56.235Z",
+    "sourceUpdate": "21.11.2026 18:52"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 21.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-21T15:59:21.857Z",
+    "checkedAt": "2026-11-21T16:59:56.141Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
