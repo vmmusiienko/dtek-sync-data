@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-20T23:00:33.429Z",
+  "lastUpdated": "2026-11-21T00:00:03.394Z",
   "fact": {
     "data": {
       "1795212000": {
@@ -8,10 +8,10 @@
           "1": "yes",
           "2": "yes",
           "3": "yes",
-          "4": "second",
-          "5": "no",
-          "6": "no",
-          "7": "no",
+          "4": "yes",
+          "5": "yes",
+          "6": "yes",
+          "7": "yes",
           "8": "no",
           "9": "no",
           "10": "yes",
@@ -25,8 +25,8 @@
           "18": "no",
           "19": "no",
           "20": "no",
-          "21": "first",
-          "22": "yes",
+          "21": "no",
+          "22": "no",
           "23": "yes",
           "24": "yes"
         },
@@ -34,10 +34,10 @@
           "1": "yes",
           "2": "yes",
           "3": "yes",
-          "4": "second",
-          "5": "no",
-          "6": "no",
-          "7": "no",
+          "4": "yes",
+          "5": "yes",
+          "6": "yes",
+          "7": "yes",
           "8": "no",
           "9": "yes",
           "10": "yes",
@@ -51,7 +51,7 @@
           "18": "no",
           "19": "no",
           "20": "no",
-          "21": "yes",
+          "21": "first",
           "22": "yes",
           "23": "yes",
           "24": "yes"
@@ -61,9 +61,9 @@
           "2": "yes",
           "3": "yes",
           "4": "yes",
-          "5": "second",
-          "6": "no",
-          "7": "no",
+          "5": "yes",
+          "6": "yes",
+          "7": "yes",
           "8": "no",
           "9": "no",
           "10": "no",
@@ -87,8 +87,8 @@
           "2": "yes",
           "3": "yes",
           "4": "yes",
-          "5": "yes",
-          "6": "yes",
+          "5": "second",
+          "6": "no",
           "7": "no",
           "8": "no",
           "9": "yes",
@@ -103,8 +103,8 @@
           "18": "no",
           "19": "no",
           "20": "no",
-          "21": "no",
-          "22": "no",
+          "21": "yes",
+          "22": "yes",
           "23": "yes",
           "24": "yes"
         },
@@ -115,8 +115,8 @@
           "4": "yes",
           "5": "yes",
           "6": "yes",
-          "7": "second",
-          "8": "no",
+          "7": "yes",
+          "8": "yes",
           "9": "no",
           "10": "no",
           "11": "no",
@@ -136,13 +136,13 @@
         },
         "GPV3.2": {
           "1": "no",
-          "2": "no",
-          "3": "no",
-          "4": "first",
+          "2": "yes",
+          "3": "yes",
+          "4": "yes",
           "5": "yes",
           "6": "yes",
           "7": "yes",
-          "8": "yes",
+          "8": "no",
           "9": "no",
           "10": "no",
           "11": "no",
@@ -162,8 +162,8 @@
         },
         "GPV4.1": {
           "1": "no",
-          "2": "no",
-          "3": "first",
+          "2": "yes",
+          "3": "yes",
           "4": "yes",
           "5": "yes",
           "6": "yes",
@@ -188,7 +188,7 @@
         },
         "GPV4.2": {
           "1": "no",
-          "2": "no",
+          "2": "yes",
           "3": "yes",
           "4": "yes",
           "5": "yes",
@@ -217,7 +217,7 @@
           "2": "no",
           "3": "no",
           "4": "no",
-          "5": "yes",
+          "5": "first",
           "6": "yes",
           "7": "yes",
           "8": "yes",
@@ -235,15 +235,15 @@
           "20": "yes",
           "21": "yes",
           "22": "yes",
-          "23": "no",
+          "23": "second",
           "24": "no"
         },
         "GPV5.2": {
           "1": "yes",
-          "2": "no",
-          "3": "no",
-          "4": "no",
-          "5": "first",
+          "2": "first",
+          "3": "yes",
+          "4": "yes",
+          "5": "yes",
           "6": "yes",
           "7": "yes",
           "8": "yes",
@@ -261,7 +261,7 @@
           "20": "yes",
           "21": "yes",
           "22": "yes",
-          "23": "yes",
+          "23": "first",
           "24": "second"
         },
         "GPV6.1": {
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "21.11.2026 00:48",
+    "update": "21.11.2026 01:23",
     "today": 1795212000
   },
   "preset": {
@@ -2695,36 +2695,36 @@
         }
       }
     },
-    "updateFact": "21.11.2026 00:48"
+    "updateFact": "21.11.2026 01:23"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T23:00:33.429Z",
-    "attempt": 187
+    "at": "2026-11-21T00:00:03.394Z",
+    "attempt": 188
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "74580e959dac5123521e40c400feb0236f23953fe823d5bcc0bab24535f2a9e1"
+    "contentHash": "9c8185d5ffd571b6d9e5cf2e4d81fda38a4db7d070a9ce9a4ddaca5d441862c0"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-20T23:00:33.510Z",
+    "checkedAt": "2026-11-21T00:00:03.463Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-20T23:00:33.429Z",
-    "sourceUpdate": "21.11.2026 00:48"
+    "lastSuccessfulFetchAt": "2026-11-21T00:00:03.394Z",
+    "sourceUpdate": "21.11.2026 01:23"
   },
   "regionalNotice": {
-    "status": "available",
-    "text": "Шановні клієнти! За наказом НЕК Укренерго 21.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-20T23:00:33.304Z",
+    "status": "unknown",
+    "text": null,
+    "checkedAt": "2026-11-21T00:00:03.291Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
-      "status": "not_reported",
+      "status": "unknown",
       "scope": "unspecified",
       "evidence": []
     }
