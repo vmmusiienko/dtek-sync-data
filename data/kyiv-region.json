@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-22T20:58:47.357Z",
+  "lastUpdated": "2026-11-22T21:57:44.875Z",
   "fact": {
     "data": {
       "1795298400": {
@@ -106,7 +106,7 @@
           "21": "yes",
           "22": "yes",
           "23": "second",
-          "24": "no"
+          "24": "yes"
         },
         "GPV3.1": {
           "1": "yes",
@@ -632,7 +632,7 @@
         }
       }
     },
-    "update": "22.11.2026 22:19",
+    "update": "22.11.2026 23:12",
     "today": 1795298400
   },
   "preset": {
@@ -3009,33 +3009,33 @@
         }
       }
     },
-    "updateFact": "22.11.2026 22:19"
+    "updateFact": "22.11.2026 23:12"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-22T20:58:47.357Z",
-    "attempt": 228
+    "at": "2026-11-22T21:57:44.875Z",
+    "attempt": 229
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "d74d6ab73daf5c9b6ae8aeb034771ac74be66cb6dab5f505e28abc90cb74a85c"
+    "contentHash": "583ce9de5a2a446ffaf9313553e372fa15052b7f4cfa5da63070b4f07329a0d9"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-22T20:58:47.422Z",
+    "checkedAt": "2026-11-22T21:57:44.934Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-22T20:58:47.357Z",
-    "sourceUpdate": "22.11.2026 22:19"
+    "lastSuccessfulFetchAt": "2026-11-22T21:57:44.875Z",
+    "sourceUpdate": "22.11.2026 23:12"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 22.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-22T20:58:47.248Z",
+    "checkedAt": "2026-11-22T21:57:44.770Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
