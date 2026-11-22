@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-22T09:01:16.956Z",
+  "lastUpdated": "2026-11-22T10:00:24.708Z",
   "fact": {
     "data": {
       "1795298400": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-22T09:01:16.956Z",
-    "attempt": 217
+    "at": "2026-11-22T10:00:24.708Z",
+    "attempt": 218
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,15 +2713,15 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-22T09:01:17.024Z",
+    "checkedAt": "2026-11-22T10:00:24.795Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-22T09:01:16.956Z",
+    "lastSuccessfulFetchAt": "2026-11-22T10:00:24.708Z",
     "sourceUpdate": "21.11.2026 22:28"
   },
   "regionalNotice": {
     "status": "unknown",
     "text": null,
-    "checkedAt": "2026-11-22T09:01:16.856Z",
+    "checkedAt": "2026-11-22T10:00:24.575Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "unknown",
