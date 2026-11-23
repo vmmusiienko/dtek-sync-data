@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-23T13:38:40.947Z",
+  "lastUpdated": "2026-11-23T15:23:24.118Z",
   "fact": {
     "data": {
       "1795384800": {
@@ -99,7 +99,7 @@
           "14": "no",
           "15": "no",
           "16": "no",
-          "17": "first",
+          "17": "no",
           "18": "yes",
           "19": "yes",
           "20": "yes",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "23.11.2026 12:41",
+    "update": "23.11.2026 16:16",
     "today": 1795384800
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "23.11.2026 12:41"
+    "updateFact": "23.11.2026 16:16"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T13:38:40.946Z",
-    "attempt": 238
+    "at": "2026-11-23T15:23:24.117Z",
+    "attempt": 239
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "90f5fd80938c41ffd725cc2f29b770053c1df7e21a982716d568c3bc414608aa"
+    "contentHash": "4cbb0168b7fcdd37c31b0017fe2bf030202273d9f8af0cec09efd60a4b80964c"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-23T13:38:41.018Z",
+    "checkedAt": "2026-11-23T15:23:24.202Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-23T13:38:40.947Z",
-    "sourceUpdate": "23.11.2026 12:41"
+    "lastSuccessfulFetchAt": "2026-11-23T15:23:24.118Z",
+    "sourceUpdate": "23.11.2026 16:16"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 23.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-23T13:38:40.829Z",
+    "checkedAt": "2026-11-23T15:23:23.987Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
