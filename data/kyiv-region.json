@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-23T10:28:37.743Z",
+  "lastUpdated": "2026-11-23T12:11:09.483Z",
   "fact": {
     "data": {
       "1795384800": {
@@ -18,9 +18,9 @@
           "11": "no",
           "12": "no",
           "13": "no",
-          "14": "first",
-          "15": "yes",
-          "16": "yes",
+          "14": "no",
+          "15": "no",
+          "16": "no",
           "17": "yes",
           "18": "yes",
           "19": "yes",
@@ -44,9 +44,9 @@
           "11": "no",
           "12": "no",
           "13": "no",
-          "14": "first",
-          "15": "yes",
-          "16": "yes",
+          "14": "no",
+          "15": "no",
+          "16": "no",
           "17": "yes",
           "18": "yes",
           "19": "yes",
@@ -228,7 +228,7 @@
           "13": "yes",
           "14": "yes",
           "15": "yes",
-          "16": "yes",
+          "16": "second",
           "17": "no",
           "18": "no",
           "19": "no",
@@ -254,7 +254,7 @@
           "13": "yes",
           "14": "yes",
           "15": "yes",
-          "16": "yes",
+          "16": "second",
           "17": "no",
           "18": "no",
           "19": "no",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "23.11.2026 12:15",
+    "update": "23.11.2026 12:41",
     "today": 1795384800
   },
   "preset": {
@@ -2695,33 +2695,33 @@
         }
       }
     },
-    "updateFact": "23.11.2026 12:15"
+    "updateFact": "23.11.2026 12:41"
   },
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T10:28:37.743Z",
-    "attempt": 236
+    "at": "2026-11-23T12:11:09.483Z",
+    "attempt": 237
   },
   "meta": {
     "schemaVersion": "1.0.0",
-    "contentHash": "59dbe044dac2517271e7fe0d5064527f314e1ca24e6ea822e999cbe56a4c3940"
+    "contentHash": "90f5fd80938c41ffd725cc2f29b770053c1df7e21a982716d568c3bc414608aa"
   },
   "regionAffiliation": null,
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-23T10:28:37.815Z",
+    "checkedAt": "2026-11-23T12:11:09.538Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-23T10:28:37.743Z",
-    "sourceUpdate": "23.11.2026 12:15"
+    "lastSuccessfulFetchAt": "2026-11-23T12:11:09.483Z",
+    "sourceUpdate": "23.11.2026 12:41"
   },
   "regionalNotice": {
     "status": "available",
     "text": "Шановні клієнти! За наказом НЕК Укренерго 23.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
-    "checkedAt": "2026-11-23T10:28:37.630Z",
+    "checkedAt": "2026-11-23T12:11:09.387Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
       "status": "not_reported",
