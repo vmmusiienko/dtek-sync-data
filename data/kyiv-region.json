@@ -1,6 +1,6 @@
 {
   "regionId": "kyiv-region",
-  "lastUpdated": "2026-11-28T02:44:16.276Z",
+  "lastUpdated": "2026-11-28T11:54:06.688Z",
   "fact": {
     "data": {
       "1795816800": {
@@ -2702,8 +2702,8 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T02:44:16.276Z",
-    "attempt": 253
+    "at": "2026-11-28T11:54:06.688Z",
+    "attempt": 254
   },
   "meta": {
     "schemaVersion": "1.0.0",
@@ -2713,22 +2713,20 @@
   "scheduleAvailability": {
     "status": "available",
     "reason": null,
-    "checkedAt": "2026-11-28T02:44:16.358Z",
+    "checkedAt": "2026-11-28T11:54:06.766Z",
     "usingPrevious": false,
-    "lastSuccessfulFetchAt": "2026-11-28T02:44:16.276Z",
+    "lastSuccessfulFetchAt": "2026-11-28T11:54:06.688Z",
     "sourceUpdate": "28.11.2026 01:08"
   },
   "regionalNotice": {
     "status": "available",
-    "text": "Шановні клієнти! За наказом НЕК Укренерго 28.11 діють стабілізаційні відключення електроенергії. Через аварію в мережі знеструмлено частково Білоцерківський район. Тут графіки не діють.",
-    "checkedAt": "2026-11-28T02:44:16.137Z",
+    "text": "Шановні клієнти! За наказом НЕК Укренерго 28.11 діють стабілізаційні відключення електроенергії. Будь ласка, розумно споживайте електроенергію — це допоможе зменшити навантаження на мережу та уникнути екстрених відключень.",
+    "checkedAt": "2026-11-28T11:54:06.551Z",
     "sourceUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
     "emergency": {
-      "status": "reported",
-      "scope": "local",
-      "evidence": [
-        "Через аварію в мережі знеструмлено частково Білоцерківський район"
-      ]
+      "status": "not_reported",
+      "scope": "unspecified",
+      "evidence": []
     }
   },
   "addressOutages": []
